@@ -34,7 +34,7 @@ Copy the text spit out by the cat command and paste it into the large textarea t
 For example:
 
 ```
-ssh root@107.251.123.654
+ssh root@138.68.60.37
 ```
 You will be prompted for the root password.
 
